@@ -41,7 +41,7 @@ function App() {
     {/* <Router> */}
       {/* <Navbar/> */}
       {/* <Navbar title="textUtils" /> */}
-      <Navbar title="Karthik" aboutText="About" mode={mode} handlemode={handlemode} />
+      <Navbar title="Rakesh" aboutText="About" mode={mode} handlemode={handlemode} />
       <Alert alert={alert} mode={mode}    />
       <Textform head="Enter the text below" mode={mode} newalert={newalert} />
       {/* <Routes> */}
